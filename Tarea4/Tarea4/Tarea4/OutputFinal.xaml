@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="Tarea4.OutputFinal"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="110">
+    <Canvas>
+        <TextBlock Canvas.Left="1" Canvas.Top="4" Height="24" Name="textBlock1" Text="Output Final" Width="108" Background="#FFDC9B86" PreviewMouseRightButtonDown="textBlock1_PreviewMouseRightButtonDown" />
+    </Canvas>
+</UserControl>

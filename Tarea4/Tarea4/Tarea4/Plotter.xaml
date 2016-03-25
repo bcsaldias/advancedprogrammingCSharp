@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Tarea4.Plotter"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="100" Width="200">
+    <Grid Background="#FFDEFFDE" Height="100" Width="203">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="178*" />
+            <ColumnDefinition Width="22*" />
+        </Grid.ColumnDefinitions>
+        <Label Content="Inicio Intervalo" Height="28" HorizontalAlignment="Left" Margin="10,10,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Fin Intervalo" Height="28" HorizontalAlignment="Left" Margin="10,37,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Step" Height="28" HorizontalAlignment="Left" Margin="10,63,0,0" Name="label3" VerticalAlignment="Top" />
+        <TextBlock Text="input" Background="White"  Height="23" HorizontalAlignment="Left" Margin="104,10,0,0" Name="prim" VerticalAlignment="Top" Width="74" MouseRightButtonDown="prim_MouseRightButtonDown" />
+        <TextBlock Text="input" Background="White"  Height="23" HorizontalAlignment="Left" Margin="104,69,0,0" Name="ter" VerticalAlignment="Top" Width="74" MouseRightButtonDown="seg_MouseRightButtonDown" />
+        <TextBlock Text="input" Background="White" Height="23" HorizontalAlignment="Left" Margin="104,41,0,0" Name="seg" VerticalAlignment="Top" Width="74" MouseRightButtonDown="ter_MouseRightButtonDown" />
+    </Grid>
+</UserControl>

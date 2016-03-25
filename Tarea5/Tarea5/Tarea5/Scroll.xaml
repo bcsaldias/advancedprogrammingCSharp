@@ -1,0 +1,12 @@
+﻿<Window x:Class="Tarea5.Scroll"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Menú" Height="500" Width="300" xmlns:my="clr-namespace:Tarea5">
+    <Grid>
+        <ScrollViewer Height="359"  CanContentScroll="true" HorizontalAlignment="Left" Margin="12,78,0,0" Name="scrollViewer1" VerticalAlignment="Top" Width="254">
+        </ScrollViewer>
+        <my:Reloj HorizontalAlignment="Left" Margin="80,13,0,0" x:Name="reloj1" VerticalAlignment="Top" />
+        <Label Content="Tiempo de simulación" Height="28" HorizontalAlignment="Left" Name="label1" VerticalAlignment="Top" FontWeight="Bold" />
+        <Label Content="Emergencias" Height="28" HorizontalAlignment="Left" Margin="0,57,0,0" Name="label2" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FFC80000" />
+    </Grid>
+</Window>

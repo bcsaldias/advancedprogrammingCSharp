@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<city name="Juanfiladelfia" width="20" height="20" accident="0.1" sickness="0.01" crime="0.05" fire="0.001">
+  <buildingList>
+    <building name="Orfanato San Agustin">
+      <cell i="0" j="0" material="Madera"/>
+      <cell i="1" j="0" material="Madera"/>
+      <cell i="2" j="0" material="Madera"/>
+      <cell i="0" j="1" material="Madera"/>
+      <cell i="1" j="1" material="Madera"/>
+      <cell i="2" j="1" material="Madera"/>
+    </building>
+    <building name="Edificio Civil I">
+      <cell i="5" j="0" material="Cemento"/>
+      <cell i="6" j="0" material="Cemento"/>
+      <cell i="5" j="1" material="Cemento"/>
+      <cell i="6" j="1" material="Cemento"/>
+    </building>
+    <building name="Westeros Bank">
+      <cell i="7" j="0" material="Piedra"/>
+      <cell i="8" j="0" material="Piedra"/>
+      <cell i="7" j="1" material="Piedra"/>
+      <cell i="8" j="1" material="Piedra"/>
+    </building>
+    <building name="Asilo de ancianos El Mañana no Importa">
+      <cell i="9" j="0" material="Cemento"/>
+      <cell i="10" j="0" material="Cemento"/>
+      <cell i="9" j="1" material="Cemento"/>
+      <cell i="10" j="1" material="Cemento"/>
+    </building>
+    <building name="Regalos Merrill Christmas">
+      <cell i="11" j="0" material="Madera"/>
+      <cell i="12" j="0" material="Madera"/>
+      <cell i="13" j="0" material="Madera"/>
+      <cell i="14" j="0" material="Madera"/>
+      <cell i="11" j="1" material="Madera"/>
+      <cell i="12" j="1" material="Madera"/>
+      <cell i="13" j="1" material="Madera"/>
+      <cell i="14" j="1" material="Madera"/>
+    </building>
+    <building name="Hotel Turing">
+      <cell i="15" j="0" material="Cemento"/>
+      <cell i="16" j="0" material="Cemento"/>
+      <cell i="15" j="1" material="Cemento"/>
+      <cell i="16" j="1" material="Cemento"/>
+    </building>
+    <building name="Almacen de Inflamables Old Flame">
+      <cell i="17" j="0" material="Madera"/>
+      <cell i="18" j="0" material="Madera"/>
+      <cell i="19" j="0" material="Madera"/>
+      <cell i="17" j="1" material="Madera"/>
+      <cell i="18" j="1" material="Madera"/>
+      <cell i="19" j="1" material="Madera"/>
+    </building>
+    <building name="Motel El Elefante Blanco">
+      <cell i="0" j="4" material="Piedra"/>
+      <cell i="1" j="4" material="Piedra"/>
+      <cell i="2" j="4" material="Piedra"/>
+      <cell i="0" j="5" material="Piedra"/>
+      <cell i="1" j="5" material="Madera"/>
+      <cell i="2" j="5" material="Piedra"/>
+      <cell i="0" j="6" material="Piedra"/>
+      <cell i="1" j="6" material="Piedra"/>
+      <cell i="2" j="6" material="Piedra"/>
+    </building>
+    <building name="Hospital">
+      <cell i="5" j="4" material="Special"/>
+      <cell i="6" j="4" material="Special"/>
+      <cell i="7" j="4" material="Special"/>
+      <cell i="8" j="4" material="Special"/>
+      <cell i="9" j="4" material="Special"/>
+      <cell i="5" j="5" material="Special"/>
+      <cell i="6" j="5" material="Special"/>
+      <cell i="7" j="5" material="Special"/>
+      <cell i="8" j="5" material="Special"/>
+      <cell i="9" j="5" material="Special"/>
+      <cell i="5" j="6" material="Special"/>
+      <cell i="6" j="6" material="Special"/>
+      <cell i="7" j="6" material="Special"/>
+      <cell i="8" j="6" material="Special"/>
+      <cell i="9" j="6" material="Special"/>
+    </building>
+    <building name="Morgue Pies Frios">
+      <cell i="10" j="4" material="Piedra"/>
+      <cell i="11" j="4" material="Piedra"/>
+      <cell i="12" j="4" material="Piedra"/>
+      <cell i="13" j="4" material="Piedra"/>
+      <cell i="10" j="5" material="Piedra"/>
+      <cell i="11" j="5" material="Cemento"/>
+      <cell i="12" j="5" material="Cemento"/>
+      <cell i="13" j="5" material="Piedra"/>
+      <cell i="10" j="6" material="Piedra"/>
+      <cell i="11" j="6" material="Piedra"/>
+      <cell i="12" j="6" material="Piedra"/>
+      <cell i="13" j="6" material="Piedra"/>
+    </building>
+    <building name="Piñones International">
+      <cell i="16" j="4" material="Acero"/>
+      <cell i="17" j="4" material="Acero"/>
+      <cell i="16" j="5" material="Acero"/>
+      <cell i="17" j="5" material="Acero"/>
+    </building>
+    <building name="Bar Kathy">
+      <cell i="18" j="4" material="Madera"/>
+      <cell i="19" j="4" material="Madera"/>
+      <cell i="18" j="5" material="Madera"/>
+      <cell i="19" j="5" material="Madera"/>
+    </building>
+    <building name="Alcaldía">
+      <cell i="0" j="7" material="Madera"/>
+      <cell i="1" j="7" material="Madera"/>
+      <cell i="2" j="7" material="Madera"/>
+      <cell i="0" j="8" material="Madera"/>
+      <cell i="1" j="8" material="Acero"/>
+      <cell i="2" j="8" material="Madera"/>
+      <cell i="0" j="9" material="Madera"/>
+      <cell i="1" j="9" material="Madera"/>
+      <cell i="2" j="9" material="Madera"/>
+    </building>
+    <building name="Edificio civil II">
+      <cell i="5" j="7" material="Ladrillo"/>
+      <cell i="6" j="7" material="Ladrillo"/>
+      <cell i="5" j="8" material="Ladrillo"/>
+      <cell i="6" j="8" material="Ladrillo"/>
+      <cell i="5" j="9" material="Ladrillo"/>
+      <cell i="6" j="9" material="Ladrillo"/>
+    </building>
+    <building name="Farmacia Bruno Wendtstein">
+      <cell i="7" j="7" material="Cemento"/>
+      <cell i="8" j="7" material="Cemento"/>
+      <cell i="7" j="8" material="Cemento"/>
+      <cell i="8" j="8" material="Cemento"/>
+      <cell i="7" j="9" material="Cemento"/>
+      <cell i="8" j="9" material="Cemento"/>
+    </building>
+    <building name="Carcel Azkaban">
+      <cell i="9" j="7" material="Acero"/>
+      <cell i="10" j="7" material="Acero"/>
+      <cell i="11" j="7" material="Acero"/>
+      <cell i="12" j="7" material="Acero"/>
+      <cell i="13" j="7" material="Acero"/>
+      <cell i="9" j="8" material="Acero"/>
+      <cell i="10" j="8" material="Cemento"/>
+      <cell i="11" j="8" material="Cemento"/>
+      <cell i="12" j="8" material="Cemento"/>
+      <cell i="13" j="8" material="Acero"/>
+      <cell i="9" j="9" material="Acero"/>
+      <cell i="10" j="9" material="Acero"/>
+      <cell i="11" j="9" material="Acero"/>
+      <cell i="12" j="9" material="Acero"/>
+      <cell i="13" j="9" material="Acero"/>
+    </building>
+    <building name="Bomberos">
+      <cell i="16" j="6" material="Special"/>
+      <cell i="17" j="6" material="Special"/>
+      <cell i="18" j="6" material="Special"/>
+      <cell i="19" j="6" material="Special"/>
+      <cell i="16" j="7" material="Special"/>
+      <cell i="17" j="7" material="Special"/>
+      <cell i="18" j="7" material="Special"/>
+      <cell i="19" j="7" material="Special"/>
+      <cell i="16" j="8" material="Special"/>
+      <cell i="17" j="8" material="Special"/>
+      <cell i="18" j="8" material="Special"/>
+      <cell i="19" j="8" material="Special"/>
+      <cell i="16" j="9" material="Special"/>
+      <cell i="17" j="9" material="Special"/>
+      <cell i="18" j="9" material="Special"/>
+      <cell i="19" j="9" material="Special"/>
+    </building>
+    <building name="Orfanato Dulces Lagrimas">
+      <cell i="0" j="12" material="Cemento"/>
+      <cell i="1" j="12" material="Cemento"/>
+      <cell i="2" j="12" material="Cemento"/>
+      <cell i="0" j="13" material="Cemento"/>
+      <cell i="1" j="13" material="Cemento"/>
+      <cell i="2" j="13" material="Cemento"/>
+    </building>
+    <building name="Caja de Pensiones Mario and Luigi">
+      <cell i="5" j="12" material="Ladrillo"/>
+      <cell i="6" j="12" material="Ladrillo"/>
+      <cell i="7" j="12" material="Ladrillo"/>
+      <cell i="5" j="13" material="Ladrillo"/>
+      <cell i="6" j="13" material="Ladrillo"/>
+      <cell i="7" j="13" material="Ladrillo"/>
+    </building>
+    <building name="Kirby Buffet Diner">
+      <cell i="10" j="12" material="Madera"/>
+      <cell i="11" j="12" material="Madera"/>
+      <cell i="10" j="13" material="Madera"/>
+      <cell i="11" j="13" material="Madera"/>
+    </building>
+    <building name="Departamento de Turismo de Juanfiladelfia">
+      <cell i="12" j="12" material="Piedra"/>
+      <cell i="13" j="12" material="Piedra"/>
+      <cell i="12" j="13" material="Piedra"/>
+      <cell i="13" j="13" material="Piedra"/>
+    </building>
+    <building name="Condominios Alejandro">
+      <cell i="0" j="14" material="Ladrillo"/>
+      <cell i="1" j="14" material="Ladrillo"/>
+      <cell i="2" j="14" material="Ladrillo"/>
+      <cell i="0" j="15" material="Ladrillo"/>
+      <cell i="1" j="15" material="Ladrillo"/>
+      <cell i="2" j="15" material="Ladrillo"/>
+    </building>
+    <building name="Mall de la Programación">
+      <cell i="5" j="14" material="Cemento"/>
+      <cell i="6" j="14" material="Cemento"/>
+      <cell i="7" j="14" material="Cemento"/>
+      <cell i="5" j="15" material="Cemento"/>
+      <cell i="6" j="15" material="Cemento"/>
+      <cell i="7" j="15" material="Cemento"/>
+    </building>
+    <building name="Dojo Ryu">
+      <cell i="10" j="14" material="Piedra"/>
+      <cell i="11" j="14" material="Piedra"/>
+      <cell i="10" j="15" material="Piedra"/>
+      <cell i="11" j="15" material="Piedra"/>
+    </building>
+    <building name="Radioemisoras Peña">
+      <cell i="12" j="14" material="Acero"/>
+      <cell i="13" j="14" material="Acero"/>
+      <cell i="12" j="15" material="Acero"/>
+      <cell i="13" j="15" material="Acero"/>
+    </building>
+    <building name="Comisaría">
+      <cell i="16" j="12" material="Special"/>
+      <cell i="17" j="12" material="Special"/>
+      <cell i="18" j="12" material="Special"/>
+      <cell i="19" j="12" material="Special"/>
+      <cell i="16" j="13" material="Special"/>
+      <cell i="17" j="13" material="Special"/>
+      <cell i="18" j="13" material="Special"/>
+      <cell i="19" j="13" material="Special"/>
+      <cell i="16" j="14" material="Special"/>
+      <cell i="17" j="14" material="Special"/>
+      <cell i="18" j="14" material="Special"/>
+      <cell i="19" j="14" material="Special"/>
+      <cell i="16" j="15" material="Special"/>
+      <cell i="17" j="15" material="Special"/>
+      <cell i="18" j="15" material="Special"/>
+      <cell i="19" j="15" material="Special"/>
+    </building>
+    <building name="Instituto técnico Donkey Kong">
+      <cell i="0" j="16" material="Madera"/>
+      <cell i="1" j="16" material="Madera"/>
+      <cell i="2" j="16" material="Madera"/>
+      <cell i="0" j="17" material="Madera"/>
+      <cell i="1" j="17" material="Madera"/>
+      <cell i="2" j="17" material="Madera"/>
+    </building>
+    <building name="Central de estudios nucleares">
+      <cell i="0" j="18" material="Acero"/>
+      <cell i="1" j="18" material="Acero"/>
+      <cell i="2" j="18" material="Acero"/>
+      <cell i="3" j="18" material="Acero"/>
+      <cell i="4" j="18" material="Acero"/>
+      <cell i="0" j="19" material="Acero"/>
+      <cell i="1" j="19" material="Acero"/>
+      <cell i="2" j="19" material="Acero"/>
+      <cell i="3" j="19" material="Acero"/>
+      <cell i="4" j="19" material="Acero"/>
+    </building>
+    <building name="Castillo Contratistas">
+      <cell i="5" j="18" material="Ladrillo"/>
+      <cell i="6" j="18" material="Ladrillo"/>
+      <cell i="7" j="18" material="Ladrillo"/>
+      <cell i="5" j="19" material="Ladrillo"/>
+      <cell i="6" j="19" material="Ladrillo"/>
+      <cell i="7" j="19" material="Ladrillo"/>
+    </building>
+    <building name="Maid Café">
+      <cell i="10" j="18" material="Madera"/>
+      <cell i="11" j="18" material="Madera"/>
+      <cell i="10" j="19" material="Madera"/>
+      <cell i="11" j="19" material="Madera"/>
+    </building>
+    <building name="Armería Lock n' Load">
+      <cell i="12" j="18" material="Cemento"/>
+      <cell i="13" j="18" material="Cemento"/>
+      <cell i="12" j="19" material="Cemento"/>
+      <cell i="13" j="19" material="Cemento"/>
+    </building>
+    <building name="Health Potions Inc.">
+      <cell i="16" j="18" material="Piedra"/>
+      <cell i="17" j="18" material="Piedra"/>
+      <cell i="16" j="19" material="Piedra"/>
+      <cell i="17" j="19" material="Piedra"/>
+    </building>
+    <building name="Chaos Theatre">
+      <cell i="18" j="18" material="Acero"/>
+      <cell i="19" j="18" material="Acero"/>
+      <cell i="18" j="19" material="Acero"/>
+      <cell i="19" j="19" material="Acero"/>
+    </building>
+  </buildingList>
+  <materialList>
+    <material name="Acero" inflamability="0.01" sick="0.1"/>
+    <material name="Cemento" inflamability="0.05" sick="0.3"/>
+    <material name="Ladrillo" inflamability="0.2" sick="0.7"/>
+    <material name="Madera" inflamability="0.7" sick="0.5"/>
+    <material name="Piedra" inflamability="0.1" sick="0.3"/>
+    <material name="Special" inflamability="0" sick="0"/>
+  </materialList>
+  <streetlightList>
+    <streetlight time="10">
+      <cell i="3" j="2"/>
+      <cell i="4" j="2"/>
+      <cell i="3" j="3"/>
+      <cell i="4" j="3"/>
+    </streetlight>
+    <streetlight time="8">
+      <cell i="14" j="2"/>
+      <cell i="15" j="2"/>
+      <cell i="14" j="3"/>
+      <cell i="15" j="3"/>
+    </streetlight>
+    <streetlight time="5">
+      <cell i="3" j="10"/>
+      <cell i="4" j="10"/>
+      <cell i="3" j="11"/>
+      <cell i="4" j="11"/>
+    </streetlight>
+    <streetlight time="7">
+      <cell i="8" j="10"/>
+      <cell i="9" j="10"/>
+      <cell i="8" j="11"/>
+      <cell i="9" j="11"/>
+    </streetlight>
+    <streetlight time="9">
+      <cell i="14" j="10"/>
+      <cell i="15" j="10"/>
+      <cell i="14" j="11"/>
+      <cell i="15" j="11"/>
+    </streetlight>
+    <streetlight time="4">
+      <cell i="8" j="16"/>
+      <cell i="9" j="16"/>
+      <cell i="8" j="17"/>
+      <cell i="9" j="17"/>
+    </streetlight>
+    <streetlight time="9">
+      <cell i="14" j="16"/>
+      <cell i="15" j="16"/>
+      <cell i="14" j="17"/>
+      <cell i="15" j="17"/>
+    </streetlight>
+  </streetlightList>
+</city>

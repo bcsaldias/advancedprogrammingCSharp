@@ -1,0 +1,10 @@
+﻿<Window x:Class="Tarea4.Gráfico"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Gráfico" Height="530" Width="530">
+    <Canvas Name="yiju" Height="500" Width="500">
+        <Rectangle Canvas.Left="0" Canvas.Top="0" Height="250" Name="rectangle1" Stroke="Black" Width="250" />
+        <Rectangle Canvas.Left="249" Canvas.Top="249" Height="250" Name="rectangle" Stroke="Black" Width="250" />
+        <TextBlock Canvas.Left="0" Canvas.Top="8" Height="56" Name="titulo" Text="TextBlock" Width="500" FontSize="30" TextAlignment="Center" FontStretch="SemiCondensed" FontStyle="Italic" FontWeight="Bold" Foreground="#FFB10CBA" />
+    </Canvas>
+</Window>

@@ -1,0 +1,10 @@
+- para iniciar un nuevo usuario hay que esperar que el anterior esté listo ( inicializado), al igual que el servidor. Principalmente cuando es en el mimo pc hay que tener cuidado ya que se pone muy lento.
+- Cundo hay más de 2 jugadores se alenta el tiempo, depende del pc. Yo probé los 4 jugadores en 2 pc y funcionó bien con ganador y todo. El server a veces se alenta, pero finalmente muestra todos los barcos hundidos y lo necesario.
+-  si ingresa nickname será el que se verá en el chat junto a su número de jugador, sino, se verá sólo su número de jugador.
+- cuando disparo sobre un lugar ya disparado se pone el color del que disparó primero.
+- cuando se hunde un barco muestra el color del que destruyó cada celda.
+- se puede agrandar y achicar la pantalla.
+-está programado para correr en pcs diferentes pero por defecto ofrece en el mismo pc.
+- como la espera de recarga de cañón podía ser eterna si nunca le achuntaba dado el tamaño del mapa, puse como máximo 5 segundos y ahí se estanca hasta que le dé al blanco.
+- se alenta al hacer el reconocimiento de barcos hundidos.
+- solo subí después el readme porque pregunté en el foro y si se puede : )
